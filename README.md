@@ -1,6 +1,6 @@
 VOCLE
 
-Collaborators: N/A
+Collaborators: Alexander Adams, Ayush Gupta, Amogh Parmeswaran
 
 Overview: Vocle is a song-guessing game inspired by Heardle, with multiplayer and singleplayer options, that will play a snippet of a song either from our default playlist(the most popular current songs) or by importing a Spotify playlist by copying the url. The multiplayer game can be played by up to 4 players on the same laptop using the keys q, m, p, and z. Additionally, the singleplayer game allows up to 6 tries to guess the right answer, including a skip button if the user wants to skip to the next guess. For singleplayer, the time increment of the snippet increases for every guess, while in multiplayer the song plays for 30 seconds. 
 
